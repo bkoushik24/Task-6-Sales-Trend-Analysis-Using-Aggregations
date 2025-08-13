@@ -1,0 +1,9 @@
+Assuming your online_sales table has these columns:
+
+1.order_id (INT)
+
+2.order_date (DATE or DATETIME)
+
+3.amount (DECIMAL)
+
+4.product_id (INT)
